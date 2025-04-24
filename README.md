@@ -38,4 +38,4 @@ CodeVision aims to empower **1 million rural learners** by 2030 through scalable
 - Share with Investors & Educators  
 
 ---
-💡 *“If you can think it, you can code it — even without Wi-Fi.”*  
+💡 *“If you can think it, you can code it, even without Wi-Fi.”*  
