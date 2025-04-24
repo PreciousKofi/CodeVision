@@ -24,7 +24,7 @@ After mastering logic offline, students “cross over” to digital tools like S
 ## 🚀 The Pilot (2025–2026)
 
 - 📍 Zingisa Primary, Eastern Cape, SA  
-- 🧒 60 Learners, 👩‍🏫 4 Teachers, 💻 20 Laptops  
+- 60 Learners, 4 Teachers, 💻 20 Laptops  
 - 📚 12-month rollout with evaluation & training
 
 ## 📈 Vision
